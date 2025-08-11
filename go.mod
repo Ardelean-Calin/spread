@@ -1,4 +1,4 @@
-module github.com/snapcore/spread
+module github.com/ardelean-calin/spread
 
 go 1.13
 
