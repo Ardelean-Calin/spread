@@ -96,7 +96,7 @@ backend:system:suite/task:variant
 Please install `spread` using Go install method:
 
 ```shell
-go install github.com/snapcore/spread/cmd/spread@latest
+go install github.com/ardelean-calin/spread/cmd/spread@latest
 ```
 
 <a name="hello-world"/>

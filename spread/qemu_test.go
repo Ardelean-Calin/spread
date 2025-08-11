@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/snapcore/spread/spread"
+	"github.com/ardelean-calin/spread/spread"
 
 	. "gopkg.in/check.v1"
 )
